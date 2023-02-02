@@ -44,7 +44,7 @@
 		38CDAD092980A5DA00CE2127 = {
 			isa = PBXGroup;
 			children = (
-				38CDAD142980A5DA00CE2127 /* Swift Test */,
+				38CDAD142980A5DA00CE2127 /* Photo Palette */,
 				38CDAD132980A5DA00CE2127 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +57,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		38CDAD142980A5DA00CE2127 /* Swift Test */ = {
+		38CDAD142980A5DA00CE2127 /* Photo Palette */ = {
 			isa = PBXGroup;
 			children = (
 				3814C24F298AEBFC00D3F8F9 /* Views */,
@@ -67,7 +67,7 @@
 				38CDAD192980A5DB00CE2127 /* Assets.xcassets */,
 				38CDAD1B2980A5DB00CE2127 /* Preview Content */,
 			);
-			path = "Swift Test";
+			path = "Photo Palette";
 			sourceTree = "<group>";
 		};
 		38CDAD1B2980A5DB00CE2127 /* Preview Content */ = {

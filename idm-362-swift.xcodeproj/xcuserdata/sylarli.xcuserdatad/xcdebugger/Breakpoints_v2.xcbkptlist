@@ -3,4 +3,115 @@
    uuid = "448EBDAD-1476-4CFB-B834-7B80D2BEC0B4"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F07FEC4E-D853-498E-ABA5-77586C943CCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift Test/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "ColorPaletteView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "F07FEC4E-D853-498E-ABA5-77586C943CCF - 7af8b543fb2993ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idm_362_swift.ColorPaletteView.colorPalette.getter : Swift.Array&lt;SwiftUI.Color&gt;"
+                  moduleName = "idm-362-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sylarli/Documents/GitHub/Swift%20Test/Swift%20Test/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "F07FEC4E-D853-498E-ABA5-77586C943CCF - 94e0819f119dfba1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idm_362_swift.ColorPaletteView.colorPalette.setter : Swift.Array&lt;SwiftUI.Color&gt;"
+                  moduleName = "idm-362-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sylarli/Documents/GitHub/Swift%20Test/Swift%20Test/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "F07FEC4E-D853-498E-ABA5-77586C943CCF - 9aff77e5a5524952"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idm_362_swift.ColorPaletteView.colorPalette.modify : Swift.Array&lt;SwiftUI.Color&gt;"
+                  moduleName = "idm-362-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sylarli/Documents/GitHub/Swift%20Test/Swift%20Test/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F07FEC4E-D853-498E-ABA5-77586C943CCF - 2531469ba9eed161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idm_362_swift.ColorPaletteView.colorPalette.modify : Swift.Array&lt;SwiftUI.Color&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "idm-362-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sylarli/Documents/GitHub/Swift%20Test/Swift%20Test/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F07FEC4E-D853-498E-ABA5-77586C943CCF - 3700dbdf4e09cb29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "idm_362_swift.ColorPaletteView.$colorPalette.getter : SwiftUI.Binding&lt;Swift.Array&lt;SwiftUI.Color&gt;&gt;"
+                  moduleName = "idm-362-swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sylarli/Documents/GitHub/Swift%20Test/Swift%20Test/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3CA4636-27EF-4E03-B416-D4C007C761F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift Test/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "ColorBlockView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
